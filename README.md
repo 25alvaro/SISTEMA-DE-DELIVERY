@@ -1,2 +1,6 @@
 # SISTEMA-DE-DELIVERY
-delivery 
+Aplicar en sistema android 
+Instalar dependencias
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
